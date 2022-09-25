@@ -1,0 +1,7 @@
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\CheckerBoard\CheckerBoard\obj\Debug\net6.0-windows\CheckerBoard.csproj.AssemblyReference.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\CheckerBoard\CheckerBoard\obj\Debug\net6.0-windows\CheckerBoard.Form1.resources
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\CheckerBoard\CheckerBoard\obj\Debug\net6.0-windows\CheckerBoard.csproj.GenerateResource.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\CheckerBoard\CheckerBoard\obj\Debug\net6.0-windows\CheckerBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\CheckerBoard\CheckerBoard\obj\Debug\net6.0-windows\CheckerBoard.AssemblyInfoInputs.cache
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\CheckerBoard\CheckerBoard\obj\Debug\net6.0-windows\CheckerBoard.AssemblyInfo.cs
+C:\Users\İLAYDA AKDERE\OneDrive\Masaüstü\CheckerBoard\CheckerBoard\obj\Debug\net6.0-windows\CheckerBoard.csproj.CoreCompileInputs.cache
